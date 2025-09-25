@@ -3,25 +3,19 @@
 * Serving as President of the UMKC School of Science and Engineering Student Council, representing over 3,000 students.<br>
 * Developing a quantum portfolio optimization tool that uses a QUBO model and the Quantum Approximate Optimization Algorithm (QAOA) to maximize return and minimize risk.<br>
 * Building and deploying a full-stack Progressive Web App for a local martial arts school using Django, PostgreSQL, and Google Cloud Platform.<br><br>
-
 👯 **I'm looking to collaborate on:**<br>
 * Open-source projects involving quantum machine learning, C++ algorithm development, and hybrid AI applications.<br><br>
-
 👋 **I'm looking for help with:**<br>
 * Securing Software Engineering, Data Science, or AI internships for Summer 2026. I am eager to apply my skills in Python, C++, and cloud infrastructure to solve real-world challenges and transition into a quantum research role as opportunities evolve.<br><br>
-
 🌱 **I'm currently learning:**<br>
 * Advanced quantum computing concepts through a graduate-level course, focusing on variational algorithms like QAOA and VQE.<br>
 * Quantitative finance metrics, such as volatility and expected return, to build robust financial models.<br>
 * Advanced cloud engineering principles in preparation for the Google Associate Cloud Engineer certification.<br><br>
-
 💬 **Ask me about:**<br>
 * **Languages & Frameworks:** Python, C++, SQL, Django, and Qiskit.<br>
 * **Tools & Platforms:** Google Cloud Platform (GCP), Docker, Git, and PostgreSQL.<br>
 * **Concepts:** Quantum algorithm implementation, full-stack web development, and DevOps/CI/CD methodologies.<br><br>
-
 ⚡ **Fun fact:** I am the Founder and President of the UMKC Billiards Club.
-
 
 
 ## 🌐 Socials:
