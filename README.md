@@ -1,26 +1,27 @@
 # 💫 About Me:
 🔭 **I'm currently working on:**<br>
-* Serving as President of the UMKC School of Science and Engineering Student Council, representing over 3,000 students.<br>
-* Developing a quantum portfolio optimization tool that uses a QUBO model and the Quantum Approximate Optimization Algorithm (QAOA) to maximize return and minimize risk.<br>
-* Building and deploying a full-stack Progressive Web App for a local martial arts school using Django, PostgreSQL, and Google Cloud Platform.
+* Contributing to full-stack development as a Software Developer Intern at MP Software LLC, using C#, ASP.NET, and SQL Server to build features for POS and e-commerce platforms.
+* Serving as President of the UMKC School of Science and Engineering Student Council, representing over 3,000 students.
+* Developing a quantum portfolio optimization tool that uses a QUBO model and the Quantum Approximate Optimization Algorithm (QAOA) to maximize return and minimize risk.
+* Architecting and deploying a full-stack Progressive Web App on Google Cloud, managing a serverless infrastructure with Docker, Cloud Run, and Cloud SQL.
 
 👯 **I'm looking to collaborate on:**<br>
-* Open-source projects involving quantum machine learning, C++ algorithm development, and hybrid AI applications.
+* Open-source projects involving quantum computing (Qiskit), C++ algorithm development, and AI/ML applications in spatial computing.
 
 👋 **I'm looking for help with:**<br>
-* Securing Software Engineering, Data Science, or AI internships for Summer 2026. I am eager to apply my skills in Python, C++, and cloud infrastructure to solve real-world challenges and transition into a quantum research role as opportunities evolve.
+* Securing Software Engineering, Data Science, or AI internships for Summer 2026. I am eager to apply my skills in Python, C++, C#, and cloud infrastructure (GCP) to solve real-world challenges.
 
 🌱 **I'm currently learning:**<br>
-* Advanced quantum computing concepts through a graduate-level course, focusing on variational algorithms like QAOA and VQE.<br>
-* Quantitative finance metrics, such as volatility and expected return, to build robust financial models.<br>
+* Advanced concepts in my 'Quantum Computing Applications...' course, focusing on algorithms like QAOA.
+* Quantitative finance metrics, such as volatility and expected return, to inform financial model design.
 * Advanced cloud engineering principles in preparation for the Google Associate Cloud Engineer certification.
 
 💬 **Ask me about:**<br>
-* **Languages & Frameworks:** Python, C++, SQL, Django, and Qiskit.<br>
-* **Tools & Platforms:** Google Cloud Platform (GCP), Docker, Git, and PostgreSQL.<br>
+* **Languages & Frameworks:** Python, C++, C#, SQL, Django, ASP.NET, and Qiskit.
+* **Tools & Platforms:** Google Cloud Platform (GCP), Docker, Git, PostgreSQL, and SQL Server.
 * **Concepts:** Quantum algorithm implementation, full-stack web development, and DevOps/CI/CD methodologies.
 
-⚡ **Fun fact:** I am the Founder and President of the UMKC Billiards Club.
+⚡ **Fun fact:** I am the Founder and President of the Billiards Club at UMKC.
 
 
 ## 🌐 Socials:
