@@ -1,27 +1,27 @@
-# 💫 About Me:
+# About Me:
 🔭 **I'm currently working on:**<br>
 * Contributing to full-stack development as a Software Developer Intern at MP Software LLC, using C#, ASP.NET, and SQL Server to build features for POS and e-commerce platforms.
 * Serving as President of the UMKC School of Science and Engineering Student Council, representing over 3,000 students.
 * Developing a quantum portfolio optimization tool that uses a QUBO model and the Quantum Approximate Optimization Algorithm (QAOA) to maximize return and minimize risk.
 * Architecting and deploying a full-stack Progressive Web App on Google Cloud, managing a serverless infrastructure with Docker, Cloud Run, and Cloud SQL.
 
-👯 **I'm looking to collaborate on:**<br>
+**I'm looking to collaborate on:**<br>
 * Open-source projects involving quantum computing (Qiskit), C++ algorithm development, and AI/ML applications in spatial computing.
 
-👋 **I'm looking for help with:**<br>
+**I'm looking for help with:**<br>
 * Securing Software Engineering, Data Science, or AI internships for Summer 2026. I am eager to apply my skills in Python, C++, C#, and cloud infrastructure (GCP) to solve real-world challenges.
 
-🌱 **I'm currently learning:**<br>
+**I'm currently learning:**<br>
 * Advanced concepts in my 'Quantum Computing Applications...' course, focusing on algorithms like QAOA.
 * Quantitative finance metrics, such as volatility and expected return, to inform financial model design.
 * Advanced cloud engineering principles in preparation for the Google Associate Cloud Engineer certification.
 
-💬 **Ask me about:**<br>
+**Ask me about:**<br>
 * **Languages & Frameworks:** Python, C++, C#, SQL, Django, ASP.NET, and Qiskit.
 * **Tools & Platforms:** Google Cloud Platform (GCP), Docker, Git, PostgreSQL, and SQL Server.
 * **Concepts:** Quantum algorithm implementation, full-stack web development, and DevOps/CI/CD methodologies.
 
-⚡ **Fun fact:** I am the Founder and President of the Billiards Club at UMKC.
+**Fun fact:** I am the Founder and President of the Billiards Club at UMKC.
 
 
 ## 🌐 Socials:
