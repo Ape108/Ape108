@@ -1,5 +1,5 @@
 # About Me:
-🔭 **I'm currently working on:**<br>
+**I'm currently working on:**<br>
 * Contributing to full-stack development as a Software Developer Intern at MP Software LLC, using C#, ASP.NET, and SQL Server to build features for POS and e-commerce platforms.
 * Serving as President of the UMKC School of Science and Engineering Student Council, representing over 3,000 students.
 * Developing a quantum portfolio optimization tool that uses a QUBO model and the Quantum Approximate Optimization Algorithm (QAOA) to maximize return and minimize risk.
