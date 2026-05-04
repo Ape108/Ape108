@@ -1,34 +1,27 @@
-# About Me:
+# Cameron Akhtar
+**Quantitative Developer | High-Performance Computing | Machine Learning**
 
-**I'm currently working on:**
-* **Quantitative Research (Power Markets):** Analyzing energy market dynamics and nodal pricing at **Evergy** using data-driven modeling.
-* **Quantum Portfolio Optimization:** Implementing a Quadratic Unconstrained Binary Optimization (QUBO) model using QAOA to optimize risk-adjusted returns (Qiskit/Python).
-* **Leadership @ UMKC:** Serving as President of the School of Science and Engineering (SSE) Student Council, representing 3,000+ students.
-* **Cloud Architecture:** Maintaining a serverless PWA on **Google Cloud Platform** utilizing Docker, Cloud Run, and Cloud SQL.
+I am a Junior Honors Computer Science student at UMKC (Minors in Mathematics, Statistics, and Data Analytics) and a Quantitative Trading Intern in Power Markets at Evergy. My work focuses on the intersection of stochastic modeling, low-latency system design, and artificial intelligence to build efficient pricing engines and data-driven trading strategies.
 
-**I'm looking to collaborate on:**
-* High-performance computing (HPC) in C++, quantitative finance libraries, and open-source tools for energy market analysis or quantum simulation.
+### Engineering & Research Focus
+* **Algorithmic Trading & Infrastructure:** Engineering custom C++ pricing engines (e.g., Black-Scholes PDE solvers via Crank-Nicolson) and utilizing `pybind11` to bypass the Python GIL for microsecond-level execution latency.
+* **Energy Market Analytics:** Managing SQL data pipelines and developing predictive ML models to analyze nodal pricing, congestion modeling, and market mechanics (SPP, MISO, PJM) at Evergy.
+* **Quantum Portfolio Optimization:** Engineering quantum-classical hybrid models implementing QAOA and QUBO via Qiskit to optimize risk-adjusted returns and asset selection.
+* **Generative Language Models:** Architecting and pretraining custom Transformer models from scratch (PyTorch, CUDA) on historical SEC EDGAR filings to assist in fundamental fundamental analysis.
 
-**I'm looking for help with:**
-* Connecting with professionals in **Quantitative Trading** and **Commodity Research**. I am focused on the intersection of stochastic modeling and high-performance system design.
+### Tech Stack
+* **Languages:** Python, C++, C#, SQL
+* **Quant & ML:** PyTorch, Pandas, NumPy, SciPy, Scikit-learn, Qiskit, pybind11
+* **Systems & Cloud:** Docker, Google Cloud Platform (GCP), CMake, PostgreSQL, CI/CD
 
-**I'm currently learning:**
-* **Energy Derivatives & Grid Economics:** Understanding congestion modeling and SPP market mechanics.
-* **Advanced Quant Metrics:** Volatility clustering, GARCH models, and expected shortfall.
-* **Cloud Engineering:** Studying for the Google Associate Cloud Engineer certification to optimize model deployment.
+### Leadership & Community
+Outside of quantitative research, I serve as the **President of the School of Science and Engineering Student Council**, representing 3,000+ STEM students, and I am the Founder and President of the UMKC Billiards Club.
 
-**Ask me about:**
-* **Languages:** Python (Pandas/NumPy/Scipy), C++, C#, SQL.
-* **Quantum & AI:** Qiskit, QAOA implementation, and heuristic optimization.
-* **Platforms:** GCP, Docker, PostgreSQL, and ASP.NET Core.
+<br>
 
-**Fun fact:** I am the Founder and President of the Billiards Club at UMKC. 🎱
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cameron-akhtar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameronakhtar.kc@gmail.com) 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cameron-akhtar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameronakhtar.kc@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
