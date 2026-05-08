@@ -1,5 +1,5 @@
 # Cameron Akhtar
-**Quantitative Developer | High-Performance Computing | Machine Learning**
+**Quantitative Trader | High-Performance Computing | Machine Learning**
 
 I am a Junior Honors Computer Science student at UMKC (Minors in Mathematics, Statistics, and Data Analytics) and a Quantitative Trading Intern in Power Markets at Evergy. My work focuses on the intersection of stochastic modeling, low-latency system design, and artificial intelligence to build efficient pricing engines and data-driven trading strategies.
 
