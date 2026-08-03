@@ -1,22 +1,30 @@
-# Cameron Akhtar
-**Quantitative Trader | High-Performance Computing | Machine Learning**
+### Cameron Akhtar
+**Quantitative Researcher | High-Performance Computing | Applied Machine Learning**
 
-I am a Junior Honors Computer Science student at UMKC (Minors in Mathematics, Statistics, and Data Analytics) and a Quantitative Trading Intern in Power Markets at Evergy. My work focuses on the intersection of stochastic modeling, low-latency system design, and artificial intelligence to build efficient pricing engines and data-driven trading strategies.
+I am a Junior Honors Computer Science student at UMKC (Minors in Mathematics, Statistics, and Data Analytics) and a Quantitative Trading Intern in Power Markets at Evergy. My work focuses on the intersection of stochastic modeling, low-latency system design, and artificial intelligence to build robust pricing engines and data-driven trading strategies.
 
-### Engineering & Research Focus
-* **Algorithmic Trading & Infrastructure:** Engineering custom C++ pricing engines (e.g., Black-Scholes PDE solvers via Crank-Nicolson) and utilizing `pybind11` to bypass the Python GIL for microsecond-level execution latency.
-* **Energy Market Analytics:** Managing SQL data pipelines and developing predictive ML models to analyze nodal pricing, congestion modeling, and market mechanics (SPP, MISO, PJM) at Evergy.
-* **Quantum Portfolio Optimization:** Engineering quantum-classical hybrid models implementing QAOA and QUBO via Qiskit to optimize risk-adjusted returns and asset selection.
-* **Generative Language Models:** Architecting and pretraining custom Transformer models from scratch (PyTorch, CUDA) on historical SEC EDGAR filings to assist in fundamental fundamental analysis.
+---
 
-### Tech Stack
-* **Languages:** Python, C++, C#, SQL
-* **Quant & ML:** PyTorch, Pandas, NumPy, SciPy, Scikit-learn, Qiskit, pybind11
-* **Systems & Cloud:** Docker, Google Cloud Platform (GCP), CMake, PostgreSQL, CI/CD
+### 🔭 Engineering & Research Focus
 
-### Leadership & Community
-Outside of quantitative research, I serve as the **President of the School of Science and Engineering Student Council**, representing 3,000+ STEM students, and I am the Founder and President of the UMKC Billiards Club.
+*   **Algorithmic Trading & HPC:** Engineering custom C++ options pricing engines (e.g., implementing the Crank-Nicolson Finite Difference Method for Black-Scholes) and utilizing `pybind11` to bypass the Python GIL for microsecond-level execution latency. Most recently, I competed as a Top 50 Global Finalist in the IMC Prosperity 4 Algorithmic Trading Challenge.
+*   **Energy Market Analytics:** Managing SQL data pipelines and developing predictive machine learning models to analyze nodal pricing, congestion modeling, and market mechanics across SPP, MISO, and PJM wholesale markets.
+*   **Quantum Portfolio Optimization:** Architecting quantum-classical hybrid models utilizing QAOA and QUBO via Qiskit to optimize risk-adjusted returns and asset selection—research that recently secured a 3rd place finish in the Hack-A-Roo quantum computing track.
+*   **Generative Models for Finance:** Architecting and pretraining custom Transformer language models from scratch (PyTorch, CUDA) on the SEC EDGAR corpus to accelerate and automate fundamental financial analysis.
 
+---
+
+### 💻 Tech Stack
+
+*   **Languages:** Python, C++, C#, SQL
+*   **Quantitative & ML:** PyTorch, Pandas, NumPy, SciPy, Scikit-learn, Qiskit, pybind11, statsmodels
+*   **Systems & Infrastructure:** Docker, Google Cloud Platform (GCP), CMake, PostgreSQL, GitHub Actions / CI/CD
+
+---
+
+### 🤝 Leadership & Community
+
+Outside of quantitative research and software engineering, I serve as the **President of the UMKC Quantitative Finance Society** and am the Founder and President of the UMKC Billiards Club.
 <br>
 
 ## Connect with me:
