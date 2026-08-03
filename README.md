@@ -24,7 +24,7 @@ I am a Junior Honors Computer Science student at UMKC (Minors in Mathematics, St
 
 ### 🤝 Leadership & Community
 
-Outside of quantitative research and software engineering, I serve as the **President of the UMKC Quantitative Finance Society** and am the Founder and President of the UMKC Billiards Club.
+Outside of quantitative research and software engineering, I serve as the **President of the UMKC Quantitative Finance Society**.
 <br>
 
 ## Connect with me:
